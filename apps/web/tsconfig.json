@@ -8,7 +8,8 @@
     ],
     "paths": {
       "@a/*": ["./app/*"],
-      "@c/*": ["./components/*"]
+      "@c/*": ["./components/*"],
+      "@/*": ["./*"]
     }
   },
   "include": [
